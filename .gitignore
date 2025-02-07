@@ -1,0 +1,5 @@
+# Ignoring some files for KiCad projects
+
+# Remove all .lck file for each directory in the repo to prevent the issue
+# of "File Open Warning" error that occurs
+*.lck
